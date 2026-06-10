@@ -1,1 +1,7 @@
-# Recuperatorio-Primer-Parcial-Programaci-n-2---Tantotero-Sebastian
+# Recuperatorio Primer Parcial - Programación II
+
+Alumno: Sebastian Tantotero
+
+## UML
+
+![UML](uml.png)
